@@ -56,4 +56,4 @@ Coming soon... (Add your deployment link here)
 Developed as part of the [Elzero Web School](https://elzero.org/) templates series.
 
 ---
-Developed by [Amr Khaled](https://github.com/your-username) 💻
+Developed by [Amr Khaled](https://github.com/amr-khaled-morsi) 💻
