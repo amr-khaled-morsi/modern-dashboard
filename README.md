@@ -3,7 +3,7 @@
 A modern, responsive dashboard template built with HTML and Vanilla CSS. This project is part of the Elzero Web School web development path, focusing on complex layouts, responsive design, and organized CSS architecture.
 
 ## 🚀 Live Preview
-Coming soon... (Add your deployment link here)
+https://amr-khaled-morsi.github.io/modern-dashboard/
 
 ## ✨ Features
 - **Responsive Design:** Optimized for all screen sizes (Desktop, Tablet, and Mobile).
